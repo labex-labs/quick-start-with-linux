@@ -23,4 +23,3 @@ This course is designed for beginners who have no prior knowledge of Linux. It w
 |      09 | 📖 User Account Management            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49'>Start Lab</a>           |
 |      10 | 🎯 The Joker's Trick                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270247'>Start Challenge</a> |
 
-> Updated at: 2024-05-21T05:52:44Z
