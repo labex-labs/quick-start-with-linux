@@ -10,8 +10,8 @@ This course is designed for beginners who have no prior knowledge of Linux. It w
 
 ## Scenarios
 
-|   Index | Name                                  | Difficulty   | URL                                                                        |
-|---------|---------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                 | Difficulty   | URL                                                                        |
+|---------|--------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Your First Linux Lab               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270253'>Start Lab</a>       |
 |      02 | 🎯 Display User and Group Information | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8718'>Start Challenge</a>   |
 |      03 | 📖 Basic Files Operations             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270248'>Start Lab</a>       |
