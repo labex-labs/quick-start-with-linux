@@ -4,7 +4,11 @@
 
 This course is designed for beginners who have no prior knowledge of Linux. It will help you to build a solid foundation of Linux, including basic commands, file management, and permissions. You will also learn how to create and manage user accounts and groups.
 
-## Challenges
+![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
+![Shell](https://img.shields.io/badge/Shell-whitesmoke?style=for-the-badge&logo=shell)
+
+
+## Scenarios
 
 |   Index | Name                                  | Difficulty   | URL                                                                        |
 |---------|---------------------------------------|--------------|----------------------------------------------------------------------------|
