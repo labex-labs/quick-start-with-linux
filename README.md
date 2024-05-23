@@ -25,6 +25,7 @@ This course is designed for beginners who have no prior knowledge of Linux. It w
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 
