@@ -10,8 +10,8 @@ This course is designed for beginners who have no prior knowledge of Linux. It w
 
 ## Scenarios
 
-|   Index | Name                                 | Difficulty   | URL                                                                        |
-|---------|--------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                  | Difficulty   | Practice                                                                   |
+|---------|---------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Your First Linux Lab               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270253'>Start Lab</a>       |
 |      02 | 🎯 Display User and Group Information | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8718'>Start Challenge</a>   |
 |      03 | 📖 Basic Files Operations             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270248'>Start Lab</a>       |
@@ -22,4 +22,6 @@ This course is designed for beginners who have no prior knowledge of Linux. It w
 |      08 | 🎯 Change the Ownership               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270254'>Start Challenge</a> |
 |      09 | 📖 User Account Management            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49'>Start Lab</a>           |
 |      10 | 🎯 The Joker's Trick                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270247'>Start Challenge</a> |
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
