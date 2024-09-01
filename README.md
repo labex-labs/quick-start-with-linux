@@ -2,7 +2,7 @@
 
 ![Quick Start with Linux](https://cover-creator.appbot.io/quick-start-with-linux.png)
 
-This course is designed for beginners who have no prior knowledge of Linux. It will help you to build a solid foundation of Linux, including basic commands, file management, and permissions. You will also learn how to create and manage user accounts and groups.
+This is a beginner's guide for Linux aimed at those new to the system and looking to begin promptly. By completing ten labs, you will grasp the basics of Linux, enabling you to perform fundamental tasks with ease.
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![Shell](https://img.shields.io/badge/Shell-whitesmoke?style=for-the-badge&logo=shell)
