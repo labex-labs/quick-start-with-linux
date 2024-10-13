@@ -26,8 +26,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                 | Difficulty   | Practice                                                                                                               |
-|---------|--------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                  | Difficulty   | Practice                                                                                                               |
+|---------|---------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First Linux Lab               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-your-first-linux-lab-270253'>Start Lab</a>                   |
 |      02 | 🎯 Display User and Group Information | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-display-user-and-group-information-8718'>Start Challenge</a> |
 |      03 | 📖 Basic Files Operations             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-basic-files-operations-270248'>Start Lab</a>                 |
