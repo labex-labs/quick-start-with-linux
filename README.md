@@ -1,8 +1,12 @@
 # Quick Start with Linux
 
-[![Quick Start with Linux](https://cover-creator.labex.io/quick-start-with-linux.png)](https://labex.io/courses/quick-start-with-linux)
+## Languages
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-linux)
+🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
+[![Quick Start with Linux](https://cover-creator.labex.io/quick-start-with-linux.png)](https://labex.io/en/courses/quick-start-with-linux)
+
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/quick-start-with-linux)
 
 This is a beginner's guide for Linux aimed at those new to the system and looking to begin promptly. By completing ten labs, you will grasp the basics of Linux, enabling you to perform fundamental tasks with ease.
 
@@ -26,18 +30,18 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                  | Difficulty   | Practice                                                                                                               |
-|---------|---------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Your First Linux Lab               | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/linux-your-first-linux-lab-270253'>Start Lab</a>                   |
-|      02 | 🎯 Display User and Group Information | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-display-user-and-group-information-8718'>Start Challenge</a> |
-|      03 | 📖 Basic Files Operations             | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/linux-basic-files-operations-270248'>Start Lab</a>                 |
-|      04 | 🎯 Files and Directories              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-files-and-directories-270246'>Start Challenge</a>            |
-|      05 | 📖 File Contents and Comparing        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-file-contents-and-comparing-270251'>Start Lab</a>            |
-|      06 | 🎯 The Manuscript Mystery             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-the-manuscript-mystery-384742'>Start Challenge</a>           |
-|      07 | 📖 Permissions of Files               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-permissions-of-files-270252'>Start Lab</a>                   |
-|      08 | 🎯 Change File Ownership              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/shell-change-file-ownership-270254'>Start Challenge</a>            |
-|      09 | 📖 User Account Management            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-user-account-management-49'>Start Lab</a>                    |
-|      10 | 🎯 The Joker's Trick                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-the-joker-s-trick-270247'>Start Challenge</a>                |
+|   Index | Name                                  | Difficulty   | Practice                                                                                                                  |
+|---------|---------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Your First Linux Lab               | ★★☆          | <a target='_blank' href='https://labex.io/en/tutorials/linux-your-first-linux-lab-270253'>Start Lab</a>                   |
+|      02 | 🎯 Display User and Group Information | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/linux-display-user-and-group-information-8718'>Start Challenge</a> |
+|      03 | 📖 Basic Files Operations             | ★★☆          | <a target='_blank' href='https://labex.io/en/tutorials/linux-basic-files-operations-270248'>Start Lab</a>                 |
+|      04 | 🎯 Files and Directories              | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/linux-files-and-directories-270246'>Start Challenge</a>            |
+|      05 | 📖 File Contents and Comparing        | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/linux-file-contents-and-comparing-270251'>Start Lab</a>            |
+|      06 | 🎯 The Manuscript Mystery             | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/linux-the-manuscript-mystery-384742'>Start Challenge</a>           |
+|      07 | 📖 Permissions of Files               | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/linux-permissions-of-files-270252'>Start Lab</a>                   |
+|      08 | 🎯 Change File Ownership              | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/shell-change-file-ownership-270254'>Start Challenge</a>            |
+|      09 | 📖 User Account Management            | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/linux-user-account-management-49'>Start Lab</a>                    |
+|      10 | 🎯 The Joker's Trick                  | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/linux-the-joker-s-trick-270247'>Start Challenge</a>                |
 
 ## More
 
