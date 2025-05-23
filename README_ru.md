@@ -32,20 +32,20 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                           | Сложность   | Практика                                                                                                                   |
 |----------|----------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Ваше первое практическое занятие по Linux       | ★★☆         | <a target='_blank' href='https://labex.io/ru/tutorials/linux-your-first-linux-lab-270253'>Начать Лабораторию</a>           |
-|       02 | 🎯 Отображение информации о пользователе и группах | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/linux-display-user-and-group-information-8718'>Начать Испытание</a> |
-|       03 | 📖 Основные операции с файлами                     | ★★☆         | <a target='_blank' href='https://labex.io/ru/tutorials/linux-basic-files-operations-270248'>Начать Лабораторию</a>         |
-|       04 | 🎯 Файлы и каталоги                                | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/linux-files-and-directories-270246'>Начать Испытание</a>            |
-|       05 | 📖 Просмотр и сравнение содержимого файлов         | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/linux-file-contents-and-comparing-270251'>Начать Лабораторию</a>    |
-|       06 | 🎯 Загадка рукописи                                | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/linux-the-manuscript-mystery-384742'>Начать Испытание</a>           |
-|       07 | 📖 Права доступа к файлам                          | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/linux-permissions-of-files-270252'>Начать Лабораторию</a>           |
-|       08 | 🎯 Изменение владельца файла                       | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/shell-change-file-ownership-270254'>Начать Испытание</a>            |
-|       09 | 📖 Управление пользовательскими учетными записями  | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/linux-user-account-management-49'>Начать Лабораторию</a>            |
-|       10 | 🎯 Трюк Джокера                                    | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/linux-the-joker-s-trick-270247'>Начать Испытание</a>                |
+|       01 | 📖 Ваше первое практическое занятие по Linux       | Средний     | <a target='_blank' href='https://labex.io/ru/tutorials/linux-your-first-linux-lab-270253'>Начать Лабораторию</a>           |
+|       02 | 🎯 Отображение информации о пользователе и группах | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-display-user-and-group-information-8718'>Начать Испытание</a> |
+|       03 | 📖 Основные операции с файлами                     | Средний     | <a target='_blank' href='https://labex.io/ru/tutorials/linux-basic-files-operations-270248'>Начать Лабораторию</a>         |
+|       04 | 🎯 Файлы и каталоги                                | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-files-and-directories-270246'>Начать Испытание</a>            |
+|       05 | 📖 Просмотр и сравнение содержимого файлов         | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-file-contents-and-comparing-270251'>Начать Лабораторию</a>    |
+|       06 | 🎯 Загадка рукописи                                | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-the-manuscript-mystery-384742'>Начать Испытание</a>           |
+|       07 | 📖 Права доступа к файлам                          | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-permissions-of-files-270252'>Начать Лабораторию</a>           |
+|       08 | 🎯 Изменение владельца файла                       | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/shell-change-file-ownership-270254'>Начать Испытание</a>            |
+|       09 | 📖 Управление пользовательскими учетными записями  | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-user-account-management-49'>Начать Лабораторию</a>            |
+|       10 | 🎯 Трюк Джокера                                    | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-the-joker-s-trick-270247'>Начать Испытание</a>                |
 
 ## Больше
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Linux Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Linux Бесплатные туториалы](https://github.com/labex-labs/linux-free-tutorials)
 
