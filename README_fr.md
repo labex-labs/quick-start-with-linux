@@ -30,22 +30,22 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Exercices
 
-|   Index | Nom                                                      | Difficulté   | Pratique                                                                                                                    |
-|---------|----------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Votre premier laboratoire Linux                       | ★★☆          | <a target='_blank' href='https://labex.io/fr/tutorials/linux-your-first-linux-lab-270253'>Commencer le Lab</a>              |
-|      02 | 🎯 Afficher les informations sur l'utilisateur et le ... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/linux-display-user-and-group-information-8718'>Commencer le Défi</a> |
-|      03 | 📖 Opérations de base sur les fichiers                   | ★★☆          | <a target='_blank' href='https://labex.io/fr/tutorials/linux-basic-files-operations-270248'>Commencer le Lab</a>            |
-|      04 | 🎯 Fichiers et Répertoires                               | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/linux-files-and-directories-270246'>Commencer le Défi</a>            |
-|      05 | 📖 Contenu des fichiers et comparaison                   | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/linux-file-contents-and-comparing-270251'>Commencer le Lab</a>       |
-|      06 | 🎯 Le mystère du manuscrit                               | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/linux-the-manuscript-mystery-384742'>Commencer le Défi</a>           |
-|      07 | 📖 Permissions des fichiers                              | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/linux-permissions-of-files-270252'>Commencer le Lab</a>              |
-|      08 | 🎯 Changer la propriété des fichiers                     | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/shell-change-file-ownership-270254'>Commencer le Défi</a>            |
-|      09 | 📖 Gestion des comptes utilisateurs                      | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/linux-user-account-management-49'>Commencer le Lab</a>               |
-|      10 | 🎯 Le tour du Joker                                      | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/linux-the-joker-s-trick-270247'>Commencer le Défi</a>                |
+|   Index | Nom                                                      | Difficulté    | Pratique                                                                                                                    |
+|---------|----------------------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Votre premier laboratoire Linux                       | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/linux-your-first-linux-lab-270253'>Commencer le Lab</a>              |
+|      02 | 🎯 Afficher les informations sur l'utilisateur et le ... | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-display-user-and-group-information-8718'>Commencer le Défi</a> |
+|      03 | 📖 Opérations de base sur les fichiers                   | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/linux-basic-files-operations-270248'>Commencer le Lab</a>            |
+|      04 | 🎯 Fichiers et Répertoires                               | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-files-and-directories-270246'>Commencer le Défi</a>            |
+|      05 | 📖 Contenu des fichiers et comparaison                   | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-file-contents-and-comparing-270251'>Commencer le Lab</a>       |
+|      06 | 🎯 Le mystère du manuscrit                               | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-the-manuscript-mystery-384742'>Commencer le Défi</a>           |
+|      07 | 📖 Permissions des fichiers                              | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-permissions-of-files-270252'>Commencer le Lab</a>              |
+|      08 | 🎯 Changer la propriété des fichiers                     | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/shell-change-file-ownership-270254'>Commencer le Défi</a>            |
+|      09 | 📖 Gestion des comptes utilisateurs                      | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-user-account-management-49'>Commencer le Lab</a>               |
+|      10 | 🎯 Le tour du Joker                                      | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-the-joker-s-trick-270247'>Commencer le Défi</a>                |
 
 ## Plus
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Linux Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Linux Tutoriels Gratuits](https://github.com/labex-labs/linux-free-tutorials)
 
