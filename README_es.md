@@ -14,6 +14,21 @@ Esta es una guía para principiantes en Linux dirigida a aquellos nuevos en el s
 ![Shell](https://img.shields.io/badge/Shell-whitesmoke?style=for-the-badge&logo=shell)
 
 
+## Ejercicios
+
+|   Índice | Nombre                                       | Dificultad   | Práctica                                                                                                                  |
+|----------|----------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 Tu primer laboratorio de Linux         | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/linux-your-first-linux-lab-270253'>Iniciar Laboratorio</a>         |
+|       02 | 🎯 🟢 Mostrar información de usuario y grupo | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-display-user-and-group-information-8718'>Iniciar Desafío</a> |
+|       03 | 📖 🟢 Operaciones Básicas de Archivos        | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/linux-basic-files-operations-270248'>Iniciar Laboratorio</a>       |
+|       04 | 🎯 🟢 Archivos y Directorios                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-files-and-directories-270246'>Iniciar Desafío</a>            |
+|       05 | 📖 🟢 Contenido de archivos y comparación    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-file-contents-and-comparing-270251'>Iniciar Laboratorio</a>  |
+|       06 | 🎯 🟢 El Misterio del Manuscrito             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-the-manuscript-mystery-384742'>Iniciar Desafío</a>           |
+|       07 | 📖 🟢 Permisos de archivos                   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-permissions-of-files-270252'>Iniciar Laboratorio</a>         |
+|       08 | 🎯 🟢 Cambiar la propiedad de archivos       | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/shell-change-file-ownership-270254'>Iniciar Desafío</a>            |
+|       09 | 📖 🟢 Gestión de cuentas de usuario          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-user-account-management-49'>Iniciar Laboratorio</a>          |
+|       10 | 🎯 🟢 El Truco del Joker                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-the-joker-s-trick-270247'>Iniciar Desafío</a>                |
+
 ## Entorno
 
 LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
@@ -24,24 +39,9 @@ LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la pro
 - Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
 - Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
 - Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje de IA Labby, construido sobre ChatGPT, que proporciona una experiencia de aprendizaje conversacional.
+- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Ejercicios
-
-|   Índice | Nombre                                    | Dificultad   | Práctica                                                                                                                  |
-|----------|-------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Tu primer laboratorio de Linux         | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/linux-your-first-linux-lab-270253'>Iniciar Laboratorio</a>         |
-|       02 | 🎯 Mostrar información de usuario y grupo | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-display-user-and-group-information-8718'>Iniciar Desafío</a> |
-|       03 | 📖 Operaciones básicas de archivos        | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/linux-basic-files-operations-270248'>Iniciar Laboratorio</a>       |
-|       04 | 🎯 Archivos y Directorios                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-files-and-directories-270246'>Iniciar Desafío</a>            |
-|       05 | 📖 Contenido de archivos y comparación    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-file-contents-and-comparing-270251'>Iniciar Laboratorio</a>  |
-|       06 | 🎯 El Misterio del Manuscrito             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-the-manuscript-mystery-384742'>Iniciar Desafío</a>           |
-|       07 | 📖 Permisos de archivos                   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-permissions-of-files-270252'>Iniciar Laboratorio</a>         |
-|       08 | 🎯 Cambiar la propiedad de archivos       | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/shell-change-file-ownership-270254'>Iniciar Desafío</a>            |
-|       09 | 📖 Gestión de cuentas de usuario          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-user-account-management-49'>Iniciar Laboratorio</a>          |
-|       10 | 🎯 El Truco del Joker                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-the-joker-s-trick-270247'>Iniciar Desafío</a>                |
 
 ## Más
 
