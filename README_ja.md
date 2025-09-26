@@ -18,16 +18,16 @@
 
 |   インデックス | 名前                                     | 難易度   | 練習                                                                                                                       |
 |----------------|------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 🟢 初めての Linux 実験                | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-your-first-linux-lab-270253'>ラボを開始</a>                   |
-|             02 | 🎯 🟢 ユーザーとグループの情報を表示する | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-display-user-and-group-information-8718'>チャレンジを開始</a> |
-|             03 | 📖 🟢 基本的なファイル操作               | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-basic-files-operations-270248'>ラボを開始</a>                 |
-|             04 | 🎯 🟢 ファイルとディレクトリ             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-files-and-directories-270246'>チャレンジを開始</a>            |
-|             05 | 📖 🟢 ファイル内容の表示と比較           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-file-contents-and-comparing-270251'>ラボを開始</a>            |
-|             06 | 🎯 🟢 原稿の謎                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-the-manuscript-mystery-384742'>チャレンジを開始</a>           |
-|             07 | 📖 🟢 ファイルの権限                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-permissions-of-files-270252'>ラボを開始</a>                   |
-|             08 | 🎯 🟢 ファイルの所有者を変更する         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-change-file-ownership-270254'>チャレンジを開始</a>            |
-|             09 | 📖 🟢 ユーザーアカウント管理             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-user-account-management-49'>ラボを開始</a>                    |
-|             10 | 🎯 🟢 Joker's Trick（ジョーカーの策略）  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-the-joker-s-trick-270247'>チャレンジを開始</a>                |
+|             01 | 📖 🆓 初めての Linux 実験                | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-your-first-linux-lab-270253'>ラボを開始</a>                   |
+|             02 | 🎯 🆓 ユーザーとグループの情報を表示する | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-display-user-and-group-information-8718'>チャレンジを開始</a> |
+|             03 | 📖 🆓 基本的なファイル操作               | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-basic-files-operations-270248'>ラボを開始</a>                 |
+|             04 | 🎯 🆓 ファイルとディレクトリ             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-files-and-directories-270246'>チャレンジを開始</a>            |
+|             05 | 📖 🆓 ファイル内容の表示と比較           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-file-contents-and-comparing-270251'>ラボを開始</a>            |
+|             06 | 🎯 🆓 原稿の謎                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-the-manuscript-mystery-384742'>チャレンジを開始</a>           |
+|             07 | 📖 🆓 ファイルの権限                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-permissions-of-files-270252'>ラボを開始</a>                   |
+|             08 | 🎯 🆓 ファイルの所有者を変更する         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-change-file-ownership-270254'>チャレンジを開始</a>            |
+|             09 | 📖 🆓 ユーザーアカウント管理             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-user-account-management-49'>ラボを開始</a>                    |
+|             10 | 🎯 🆓 Joker's Trick（ジョーカーの策略）  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-the-joker-s-trick-270247'>チャレンジを開始</a>                |
 
 ## 環境
 
