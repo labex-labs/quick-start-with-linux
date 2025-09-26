@@ -18,16 +18,16 @@ Este é um guia para iniciantes em Linux, direcionado àqueles que são novos no
 
 |   Índice | Nome                                        | Dificuldade   | Prática                                                                                                                   |
 |----------|---------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🟢 Seu Primeiro Laboratório Linux        | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/linux-your-first-linux-lab-270253'>Iniciar Lab</a>                 |
-|       02 | 🎯 🟢 Exibir Informações de Usuário e Grupo | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-display-user-and-group-information-8718'>Iniciar Desafio</a> |
-|       03 | 📖 🟢 Operações Básicas de Arquivos         | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/linux-basic-files-operations-270248'>Iniciar Lab</a>               |
-|       04 | 🎯 🟢 Arquivos e Diretórios                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-files-and-directories-270246'>Iniciar Desafio</a>            |
-|       05 | 📖 🟢 Conteúdo de Arquivos e Comparação     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-file-contents-and-comparing-270251'>Iniciar Lab</a>          |
-|       06 | 🎯 🟢 O Mistério do Manuscrito              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-the-manuscript-mystery-384742'>Iniciar Desafio</a>           |
-|       07 | 📖 🟢 Permissões de Arquivos                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-permissions-of-files-270252'>Iniciar Lab</a>                 |
-|       08 | 🎯 🟢 Alterar a Propriedade do Arquivo      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/shell-change-file-ownership-270254'>Iniciar Desafio</a>            |
-|       09 | 📖 🟢 Gerenciamento de Contas de Usuário    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-user-account-management-49'>Iniciar Lab</a>                  |
-|       10 | 🎯 🟢 O Truque do Coringa                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-the-joker-s-trick-270247'>Iniciar Desafio</a>                |
+|       01 | 📖 🆓 Seu Primeiro Laboratório Linux        | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/linux-your-first-linux-lab-270253'>Iniciar Lab</a>                 |
+|       02 | 🎯 🆓 Exibir Informações de Usuário e Grupo | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-display-user-and-group-information-8718'>Iniciar Desafio</a> |
+|       03 | 📖 🆓 Operações Básicas de Arquivos         | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/linux-basic-files-operations-270248'>Iniciar Lab</a>               |
+|       04 | 🎯 🆓 Arquivos e Diretórios                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-files-and-directories-270246'>Iniciar Desafio</a>            |
+|       05 | 📖 🆓 Conteúdo de Arquivos e Comparação     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-file-contents-and-comparing-270251'>Iniciar Lab</a>          |
+|       06 | 🎯 🆓 O Mistério do Manuscrito              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-the-manuscript-mystery-384742'>Iniciar Desafio</a>           |
+|       07 | 📖 🆓 Permissões de Arquivos                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-permissions-of-files-270252'>Iniciar Lab</a>                 |
+|       08 | 🎯 🆓 Alterar a Propriedade do Arquivo      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/shell-change-file-ownership-270254'>Iniciar Desafio</a>            |
+|       09 | 📖 🆓 Gerenciamento de Contas de Usuário    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-user-account-management-49'>Iniciar Lab</a>                  |
+|       10 | 🎯 🆓 O Truque do Coringa                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-the-joker-s-trick-270247'>Iniciar Desafio</a>                |
 
 ## Ambiente
 
