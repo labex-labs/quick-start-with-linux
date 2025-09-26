@@ -18,16 +18,16 @@
 
 |   序号 | 名称                        | 难度   | 练习                                                                                                               |
 |--------|-----------------------------|--------|--------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 🟢 你的第一个 Linux 实验 | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-your-first-linux-lab-270253'>开始实验</a>             |
-|     02 | 🎯 🟢 显示用户和组信息      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-display-user-and-group-information-8718'>开始挑战</a> |
-|     03 | 📖 🟢 基本文件操作          | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-basic-files-operations-270248'>开始实验</a>           |
-|     04 | 🎯 🟢 文件和目录            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-files-and-directories-270246'>开始挑战</a>            |
-|     05 | 📖 🟢 文件内容与比较        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-file-contents-and-comparing-270251'>开始实验</a>      |
-|     06 | 🎯 🟢 手稿之谜              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-the-manuscript-mystery-384742'>开始挑战</a>           |
-|     07 | 📖 🟢 文件权限              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-permissions-of-files-270252'>开始实验</a>             |
-|     08 | 🎯 🟢 更改文件所有权        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/shell-change-file-ownership-270254'>开始挑战</a>            |
-|     09 | 📖 🟢 用户账户管理          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-user-account-management-49'>开始实验</a>              |
-|     10 | 🎯 🟢 Joker 的诡计          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-the-joker-s-trick-270247'>开始挑战</a>                |
+|     01 | 📖 🆓 你的第一个 Linux 实验 | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-your-first-linux-lab-270253'>开始实验</a>             |
+|     02 | 🎯 🆓 显示用户和组信息      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-display-user-and-group-information-8718'>开始挑战</a> |
+|     03 | 📖 🆓 基本文件操作          | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-basic-files-operations-270248'>开始实验</a>           |
+|     04 | 🎯 🆓 文件和目录            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-files-and-directories-270246'>开始挑战</a>            |
+|     05 | 📖 🆓 文件内容与比较        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-file-contents-and-comparing-270251'>开始实验</a>      |
+|     06 | 🎯 🆓 手稿之谜              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-the-manuscript-mystery-384742'>开始挑战</a>           |
+|     07 | 📖 🆓 文件权限              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-permissions-of-files-270252'>开始实验</a>             |
+|     08 | 🎯 🆓 更改文件所有权        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/shell-change-file-ownership-270254'>开始挑战</a>            |
+|     09 | 📖 🆓 用户账户管理          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-user-account-management-49'>开始实验</a>              |
+|     10 | 🎯 🆓 Joker 的诡计          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-the-joker-s-trick-270247'>开始挑战</a>                |
 
 ## 学习环境
 
