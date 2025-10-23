@@ -16,22 +16,22 @@
 
 ## 练习
 
-|   序号 | 名称                        | 难度   | 练习                                                                                                               |
-|--------|-----------------------------|--------|--------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 🆓 你的第一个 Linux 实验 | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-your-first-linux-lab-270253'>开始实验</a>             |
-|     02 | 🎯 🆓 显示用户和组信息      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-display-user-and-group-information-8718'>开始挑战</a> |
-|     03 | 📖 🆓 基本文件操作          | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-basic-files-operations-270248'>开始实验</a>           |
-|     04 | 🎯 🆓 文件和目录            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-files-and-directories-270246'>开始挑战</a>            |
-|     05 | 📖 🆓 文件内容与比较        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-file-contents-and-comparing-270251'>开始实验</a>      |
-|     06 | 🎯 🆓 手稿之谜              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-the-manuscript-mystery-384742'>开始挑战</a>           |
-|     07 | 📖 🆓 文件权限              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-permissions-of-files-270252'>开始实验</a>             |
-|     08 | 🎯 🆓 更改文件所有权        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/shell-change-file-ownership-270254'>开始挑战</a>            |
-|     09 | 📖 🆓 用户账户管理          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-user-account-management-49'>开始实验</a>              |
-|     10 | 🎯 🆓 Joker 的诡计          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-the-joker-s-trick-270247'>开始挑战</a>                |
+|   序号 | 名称                        | 难度   | 练习                                                                                                                                        |
+|--------|-----------------------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|     01 | 🧩 🆓 你的第一个 Linux 实验 | 中级   | <a target='_blank' href='https://labex.io/zh/labs/linux-your-first-linux-lab-270253?course=quick-start-with-linux'>开始实验</a>             |
+|     02 | 🎯 🆓 显示用户和组信息      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-display-user-and-group-information-8718?course=quick-start-with-linux'>开始挑战</a> |
+|     03 | 🧩 🆓 基本文件操作          | 中级   | <a target='_blank' href='https://labex.io/zh/labs/linux-basic-files-operations-270248?course=quick-start-with-linux'>开始实验</a>           |
+|     04 | 🎯 🆓 文件和目录            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-files-and-directories-270246?course=quick-start-with-linux'>开始挑战</a>            |
+|     05 | 🧩 🆓 文件内容与比较        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-file-contents-and-comparing-270251?course=quick-start-with-linux'>开始实验</a>      |
+|     06 | 🎯 🆓 手稿之谜              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-the-manuscript-mystery-384742?course=quick-start-with-linux'>开始挑战</a>           |
+|     07 | 🧩 🆓 文件权限              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-permissions-of-files-270252?course=quick-start-with-linux'>开始实验</a>             |
+|     08 | 🎯 🆓 更改文件所有权        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/shell-change-file-ownership-270254?course=quick-start-with-linux'>开始挑战</a>            |
+|     09 | 🧩 🆓 用户账户管理          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-user-account-management-49?course=quick-start-with-linux'>开始实验</a>              |
+|     10 | 🎯 🆓 Joker 的诡计          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-the-joker-s-trick-270247?course=quick-start-with-linux'>开始挑战</a>                |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
