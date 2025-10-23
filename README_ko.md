@@ -16,22 +16,22 @@
 
 ## 연습
 
-|   인덱스 | 이름                           | 난이도   | 연습                                                                                                                |
-|----------|--------------------------------|----------|---------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🆓 첫 번째 Linux 랩         | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-your-first-linux-lab-270253'>실습 시작</a>             |
-|       02 | 🎯 🆓 사용자 및 그룹 정보 표시 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-display-user-and-group-information-8718'>도전 시작</a> |
-|       03 | 📖 🆓 기본 파일 작업           | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-basic-files-operations-270248'>실습 시작</a>           |
-|       04 | 🎯 🆓 파일 및 디렉토리         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-files-and-directories-270246'>도전 시작</a>            |
-|       05 | 📖 🆓 파일 내용 및 비교        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-file-contents-and-comparing-270251'>실습 시작</a>      |
-|       06 | 🎯 🆓 원고 미스터리            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-the-manuscript-mystery-384742'>도전 시작</a>           |
-|       07 | 📖 🆓 파일 권한                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-permissions-of-files-270252'>실습 시작</a>             |
-|       08 | 🎯 🆓 파일 소유권 변경         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-change-file-ownership-270254'>도전 시작</a>            |
-|       09 | 📖 🆓 사용자 계정 관리         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-user-account-management-49'>실습 시작</a>              |
-|       10 | 🎯 🆓 The Joker's Trick        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-the-joker-s-trick-270247'>도전 시작</a>                |
+|   인덱스 | 이름                           | 난이도   | 연습                                                                                                                                         |
+|----------|--------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🧩 🆓 첫 번째 Linux 랩         | 중급     | <a target='_blank' href='https://labex.io/ko/labs/linux-your-first-linux-lab-270253?course=quick-start-with-linux'>실습 시작</a>             |
+|       02 | 🎯 🆓 사용자 및 그룹 정보 표시 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-display-user-and-group-information-8718?course=quick-start-with-linux'>도전 시작</a> |
+|       03 | 🧩 🆓 기본 파일 작업           | 중급     | <a target='_blank' href='https://labex.io/ko/labs/linux-basic-files-operations-270248?course=quick-start-with-linux'>실습 시작</a>           |
+|       04 | 🎯 🆓 파일 및 디렉토리         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-files-and-directories-270246?course=quick-start-with-linux'>도전 시작</a>            |
+|       05 | 🧩 🆓 파일 내용 및 비교        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-file-contents-and-comparing-270251?course=quick-start-with-linux'>실습 시작</a>      |
+|       06 | 🎯 🆓 원고 미스터리            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-the-manuscript-mystery-384742?course=quick-start-with-linux'>도전 시작</a>           |
+|       07 | 🧩 🆓 파일 권한                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-permissions-of-files-270252?course=quick-start-with-linux'>실습 시작</a>             |
+|       08 | 🎯 🆓 파일 소유권 변경         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/shell-change-file-ownership-270254?course=quick-start-with-linux'>도전 시작</a>            |
+|       09 | 🧩 🆓 사용자 계정 관리         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-user-account-management-49?course=quick-start-with-linux'>실습 시작</a>              |
+|       10 | 🎯 🆓 The Joker's Trick        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-the-joker-s-trick-270247?course=quick-start-with-linux'>도전 시작</a>                |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
