@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://labex.io/de/courses/quick-start-with-linux">
-    <img width="640" src="https://course-cover.labex.io/quick-start-with-linux.png?lang=de" alt="Schnellstart mit Linux">
+    <img src="https://course-cover.labex.io/quick-start-with-linux.png?lang=de" alt="Schnellstart mit Linux">
   </a>
 </p>
 
