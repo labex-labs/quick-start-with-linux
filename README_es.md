@@ -1,41 +1,31 @@
 # Inicio rápido con Linux
 
-## Idiomas
+**Idiomas:** [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md) · [English](README.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-[![Inicio rápido con Linux](https://cover-creator.labex.io/quick-start-with-linux.png?lang=es)](https://labex.io/es/courses/quick-start-with-linux)
-
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/es/courses/quick-start-with-linux)
+<p align="center">
+  <a href="https://labex.io/es/courses/quick-start-with-linux">
+    <img width="128" src="https://course-cover.labex.io/quick-start-with-linux.png?lang=es" alt="Inicio rápido con Linux">
+  </a>
+</p>
 
 Esta es una guía para principiantes en Linux dirigida a aquellos nuevos en el sistema y que buscan comenzar rápidamente. Al completar diez laboratorios, adquirirás los conceptos básicos de Linux, lo que te permitirá realizar tareas fundamentales con facilidad.
 
-![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
-![Shell](https://img.shields.io/badge/Shell-whitesmoke?style=for-the-badge&logo=shell)
-
+[Iniciar curso en LabEx](https://labex.io/es/courses/quick-start-with-linux)
 
 ## Ejercicios
 
-|   Índice | Nombre                                       | Dificultad   | Práctica                                                                                                                                           |
-|----------|----------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🧩 🆓 Tu primer laboratorio de Linux         | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/linux-your-first-linux-lab-270253?course=quick-start-with-linux'>Iniciar Laboratorio</a>         |
-|       02 | 🎯 🆓 Mostrar información de usuario y grupo | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-display-user-and-group-information-8718?course=quick-start-with-linux'>Iniciar Desafío</a> |
-|       03 | 🧩 🆓 Operaciones Básicas de Archivos        | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/linux-basic-files-operations-270248?course=quick-start-with-linux'>Iniciar Laboratorio</a>       |
-|       04 | 🎯 🆓 Archivos y Directorios                 | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-files-and-directories-270246?course=quick-start-with-linux'>Iniciar Desafío</a>            |
-|       05 | 🧩 🆓 Contenido de archivos y comparación    | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-file-contents-and-comparing-270251?course=quick-start-with-linux'>Iniciar Laboratorio</a>  |
-|       06 | 🎯 🆓 El Misterio del Manuscrito             | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-the-manuscript-mystery-384742?course=quick-start-with-linux'>Iniciar Desafío</a>           |
-|       07 | 🧩 🆓 Permisos de archivos                   | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-permissions-of-files-270252?course=quick-start-with-linux'>Iniciar Laboratorio</a>         |
-|       08 | 🎯 🆓 Cambiar la propiedad de archivos       | Principiante | <a target='_blank' href='https://labex.io/es/labs/shell-change-file-ownership-270254?course=quick-start-with-linux'>Iniciar Desafío</a>            |
-|       09 | 🧩 🆓 Gestión de cuentas de usuario          | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-user-account-management-49?course=quick-start-with-linux'>Iniciar Laboratorio</a>          |
-|       10 | 🎯 🆓 El Truco del Joker                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-the-joker-s-trick-270247?course=quick-start-with-linux'>Iniciar Desafío</a>                |
+|   Índice | Nombre                                 | Dificultad   | Práctica                                                                                                                                           |
+|----------|----------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | Tu primer laboratorio de Linux         | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-your-first-linux-lab-270253?course=quick-start-with-linux'>Iniciar lab</a>                 |
+|       02 | Mostrar información de usuario y grupo | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-display-user-and-group-information-8718?course=quick-start-with-linux'>Iniciar desafío</a> |
+|       03 | Operaciones básicas con archivos       | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-basic-files-operations-270248?course=quick-start-with-linux'>Iniciar lab</a>               |
+|       04 | Archivos y Directorios                 | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-files-and-directories-270246?course=quick-start-with-linux'>Iniciar desafío</a>            |
+|       05 | Contenido y Comparación de Archivos    | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-file-contents-and-comparing-270251?course=quick-start-with-linux'>Iniciar lab</a>          |
+|       06 | El Misterio del Manuscrito             | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-the-manuscript-mystery-384742?course=quick-start-with-linux'>Iniciar desafío</a>           |
+|       07 | Permisos de archivos                   | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-permissions-of-files-270252?course=quick-start-with-linux'>Iniciar lab</a>                 |
+|       08 | Cambiar la Propiedad de un Archivo     | Principiante | <a target='_blank' href='https://labex.io/es/labs/shell-change-file-ownership-270254?course=quick-start-with-linux'>Iniciar desafío</a>            |
+|       09 | Gestión de Cuentas de Usuario          | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-user-account-management-49?course=quick-start-with-linux'>Iniciar lab</a>                  |
+|       10 | El truco del Joker                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-the-joker-s-trick-270247?course=quick-start-with-linux'>Iniciar desafío</a>                |
 
-## Acerca de LabEx
-
-[LabEx](https://labex.io) es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
-
-## Más
-
-- 🔗 [Linux Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Tutoriales Gratuitos](https://github.com/labex-labs/linux-free-tutorials)
+<hr><div align="center"><p><a href="https://labex.io"><strong>LabEx</strong></a> es una <strong>plataforma de aprendizaje práctico para principiantes</strong>.</p><p>Explora <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a> y <strong>mucho más</strong>, todo directamente en tu navegador.</p><p>Aprende paso a paso con <strong>laboratorios interactivos</strong>, <strong>ejercicios guiados</strong> y <strong>proyectos reales</strong>. 🌱<br />Sin configuración ni estrés: solo practica y desarrolla tus habilidades haciendo.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 ¿Necesitas ayuda? Visita nuestro <a href="https://support.labex.io/">Centro de ayuda</a> o escribe a info@labex.io</p></div>
 
